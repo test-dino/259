@@ -1,0 +1,4 @@
+notifications:
+  webhooks:
+    urls:
+      - https://hooks-glpdevams.dev.glip.net/webhook/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvdCI6InUiLCJvaSI6IjE2ODc4MDU5NTUiLCJpZCI6Ijk2MzA1MTc5In0.kVpPyumntS0QqmKWY9jqEhQs42YqU4D0bvNI1zT7taU
